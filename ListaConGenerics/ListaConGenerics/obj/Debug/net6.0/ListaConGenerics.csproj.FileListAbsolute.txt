@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\bin\Debug\net6.0\ListaConGenerics.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\bin\Debug\net6.0\ListaConGenerics.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\bin\Debug\net6.0\ListaConGenerics.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\bin\Debug\net6.0\ListaConGenerics.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\bin\Debug\net6.0\ListaConGenerics.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\refint\ListaConGenerics.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ListaConGenerics.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ListaConGenerics\ListaConGenerics\obj\Debug\net6.0\ref\ListaConGenerics.dll

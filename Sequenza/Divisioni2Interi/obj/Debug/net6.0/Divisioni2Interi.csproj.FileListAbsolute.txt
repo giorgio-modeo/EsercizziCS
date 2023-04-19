@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\bin\Debug\net6.0\Divisioni2Interi.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\bin\Debug\net6.0\Divisioni2Interi.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\bin\Debug\net6.0\Divisioni2Interi.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\bin\Debug\net6.0\Divisioni2Interi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\bin\Debug\net6.0\Divisioni2Interi.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\refint\Divisioni2Interi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\Divisioni2Interi.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\Divisioni2Interi\obj\Debug\net6.0\ref\Divisioni2Interi.dll

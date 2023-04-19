@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ModeoGiorgio-Esercitazione1/1.0.0": {
+        "runtime": {
+          "ModeoGiorgio-Esercitazione1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModeoGiorgio-Esercitazione1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

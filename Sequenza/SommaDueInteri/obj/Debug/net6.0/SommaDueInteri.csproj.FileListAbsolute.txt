@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\bin\Debug\net6.0\SommaDueInteri.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\bin\Debug\net6.0\SommaDueInteri.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\bin\Debug\net6.0\SommaDueInteri.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\bin\Debug\net6.0\SommaDueInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\bin\Debug\net6.0\SommaDueInteri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\refint\SommaDueInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\SommaDueInteri.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\SommaDueInteri\obj\Debug\net6.0\ref\SommaDueInteri.dll

@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\bin\Debug\net6.0\Atleti.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\bin\Debug\net6.0\Atleti.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\bin\Debug\net6.0\Atleti.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\bin\Debug\net6.0\Atleti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\bin\Debug\net6.0\Atleti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\refint\Atleti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\Atleti.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\interfaccia\Atleti\obj\Debug\net6.0\ref\Atleti.dll

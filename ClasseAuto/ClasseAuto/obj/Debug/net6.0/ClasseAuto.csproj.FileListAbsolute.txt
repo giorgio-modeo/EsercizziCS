@@ -1,0 +1,5 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClasseAuto\ClasseAuto\obj\Debug\net6.0\ClasseAuto.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClasseAuto\ClasseAuto\obj\Debug\net6.0\ClasseAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClasseAuto\ClasseAuto\obj\Debug\net6.0\ClasseAuto.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClasseAuto\ClasseAuto\obj\Debug\net6.0\ClasseAuto.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClasseAuto\ClasseAuto\obj\Debug\net6.0\ClasseAuto.csproj.CoreCompileInputs.cache

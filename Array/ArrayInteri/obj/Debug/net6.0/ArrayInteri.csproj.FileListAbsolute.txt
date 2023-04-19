@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\bin\Debug\net6.0\ArrayInteri.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\bin\Debug\net6.0\ArrayInteri.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\bin\Debug\net6.0\ArrayInteri.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\bin\Debug\net6.0\ArrayInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\bin\Debug\net6.0\ArrayInteri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\refint\ArrayInteri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ArrayInteri.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Array\ArrayInteri\obj\Debug\net6.0\ref\ArrayInteri.dll

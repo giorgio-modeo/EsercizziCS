@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Divisioni2Interi/1.0.0": {
+        "runtime": {
+          "Divisioni2Interi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisioni2Interi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

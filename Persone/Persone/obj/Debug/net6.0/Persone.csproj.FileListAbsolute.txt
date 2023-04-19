@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\bin\Debug\net6.0\Persone.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\bin\Debug\net6.0\Persone.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\bin\Debug\net6.0\Persone.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\bin\Debug\net6.0\Persone.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\bin\Debug\net6.0\Persone.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\refint\Persone.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\Persone.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Persone\Persone\obj\Debug\net6.0\ref\Persone.dll

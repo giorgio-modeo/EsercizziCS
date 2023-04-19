@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\bin\Debug\net6.0\Benvenuto.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\bin\Debug\net6.0\Benvenuto.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\bin\Debug\net6.0\Benvenuto.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\bin\Debug\net6.0\Benvenuto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\bin\Debug\net6.0\Benvenuto.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\refint\Benvenuto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\Benvenuto.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Benvenuto\Benvenuto\obj\Debug\net6.0\ref\Benvenuto.dll

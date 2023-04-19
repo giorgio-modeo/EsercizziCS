@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrilateri", "Quadrilateri\Quadrilateri.csproj", "{2EDA34DC-DE08-41F4-838A-3FD9CD837DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solidi", "solidi\Solidi.csproj", "{9CB31E7C-FCD6-49CB-B9D7-B36BAF598E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDA34DC-DE08-41F4-838A-3FD9CD837DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDA34DC-DE08-41F4-838A-3FD9CD837DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDA34DC-DE08-41F4-838A-3FD9CD837DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDA34DC-DE08-41F4-838A-3FD9CD837DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB31E7C-FCD6-49CB-B9D7-B36BAF598E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB31E7C-FCD6-49CB-B9D7-B36BAF598E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB31E7C-FCD6-49CB-B9D7-B36BAF598E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB31E7C-FCD6-49CB-B9D7-B36BAF598E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91A0171-130C-4EEC-B2F6-0864B62C073B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\bin\Debug\net6.0\Quadrilateri.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\bin\Debug\net6.0\Quadrilateri.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\bin\Debug\net6.0\Quadrilateri.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\bin\Debug\net6.0\Quadrilateri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\bin\Debug\net6.0\Quadrilateri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\refint\Quadrilateri.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\Quadrilateri.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\Quadrilateri\obj\Debug\net6.0\ref\Quadrilateri.dll

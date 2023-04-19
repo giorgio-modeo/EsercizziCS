@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\bin\Debug\net6.0\CarattereToAscii.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\bin\Debug\net6.0\CarattereToAscii.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\bin\Debug\net6.0\CarattereToAscii.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\bin\Debug\net6.0\CarattereToAscii.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\bin\Debug\net6.0\CarattereToAscii.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\refint\CarattereToAscii.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\CarattereToAscii.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Sequenza\CarattereToAscii\obj\Debug\net6.0\ref\CarattereToAscii.dll

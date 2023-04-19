@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\bin\Debug\net6.0\FigureGeometriche.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\bin\Debug\net6.0\FigureGeometriche.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\bin\Debug\net6.0\FigureGeometriche.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\bin\Debug\net6.0\FigureGeometriche.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\bin\Debug\net6.0\FigureGeometriche.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\refint\FigureGeometriche.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\FigureGeometriche.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ClassiOOp\FigureGeometriche\obj\Debug\net6.0\ref\FigureGeometriche.dll

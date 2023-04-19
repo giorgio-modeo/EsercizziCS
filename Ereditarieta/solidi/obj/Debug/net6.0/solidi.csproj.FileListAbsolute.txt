@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\bin\Debug\net6.0\solidi.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\bin\Debug\net6.0\solidi.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\bin\Debug\net6.0\solidi.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\bin\Debug\net6.0\solidi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\bin\Debug\net6.0\solidi.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\refint\solidi.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\solidi.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Ereditarieta\solidi\obj\Debug\net6.0\ref\solidi.dll
