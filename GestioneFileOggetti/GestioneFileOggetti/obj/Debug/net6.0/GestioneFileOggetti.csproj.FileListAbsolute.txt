@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\net6.0\GestioneFileOggetti.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\net6.0\GestioneFileOggetti.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\net6.0\GestioneFileOggetti.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\net6.0\GestioneFileOggetti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\bin\Debug\net6.0\GestioneFileOggetti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\refint\GestioneFileOggetti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\GestioneFileOggetti.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileOggetti\GestioneFileOggetti\obj\Debug\net6.0\ref\GestioneFileOggetti.dll

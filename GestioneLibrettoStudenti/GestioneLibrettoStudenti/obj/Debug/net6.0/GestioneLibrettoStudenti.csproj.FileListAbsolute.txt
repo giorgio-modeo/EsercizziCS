@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\bin\Debug\net6.0\GestioneLibrettoStudenti.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\bin\Debug\net6.0\GestioneLibrettoStudenti.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\bin\Debug\net6.0\GestioneLibrettoStudenti.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\bin\Debug\net6.0\GestioneLibrettoStudenti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\bin\Debug\net6.0\GestioneLibrettoStudenti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\refint\GestioneLibrettoStudenti.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\GestioneLibrettoStudenti.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneLibrettoStudenti\GestioneLibrettoStudenti\obj\Debug\net6.0\ref\GestioneLibrettoStudenti.dll

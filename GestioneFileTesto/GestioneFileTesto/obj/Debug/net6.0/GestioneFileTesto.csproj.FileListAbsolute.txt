@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\bin\Debug\net6.0\GestioneFileTesto.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\bin\Debug\net6.0\GestioneFileTesto.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\bin\Debug\net6.0\GestioneFileTesto.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\bin\Debug\net6.0\GestioneFileTesto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\bin\Debug\net6.0\GestioneFileTesto.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\refint\GestioneFileTesto.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\GestioneFileTesto.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\GestioneFileTesto\GestioneFileTesto\obj\Debug\net6.0\ref\GestioneFileTesto.dll

@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\bin\Debug\net6.0\Diario.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\bin\Debug\net6.0\Diario.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\bin\Debug\net6.0\Diario.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\bin\Debug\net6.0\Diario.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\bin\Debug\net6.0\Diario.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\refint\Diario.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\Diario.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\Diario\Diario\obj\Debug\net6.0\ref\Diario.dll

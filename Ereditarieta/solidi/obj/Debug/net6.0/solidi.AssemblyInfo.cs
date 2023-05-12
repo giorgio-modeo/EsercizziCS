@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("solidi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Solidi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("solidi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("solidi")]
+[assembly: System.Reflection.AssemblyProductAttribute("Solidi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Solidi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

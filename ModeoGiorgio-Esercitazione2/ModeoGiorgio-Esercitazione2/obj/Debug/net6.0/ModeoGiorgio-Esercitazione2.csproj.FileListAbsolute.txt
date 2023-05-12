@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\bin\Debug\net6.0\ModeoGiorgio-Esercitazione2.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\bin\Debug\net6.0\ModeoGiorgio-Esercitazione2.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\bin\Debug\net6.0\ModeoGiorgio-Esercitazione2.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\bin\Debug\net6.0\ModeoGiorgio-Esercitazione2.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\bin\Debug\net6.0\ModeoGiorgio-Esercitazione2.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\refint\ModeoGiorgio-Esercitazione2.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ModeoGiorgio-Esercitazione2.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\ModeoGiorgio-Esercitazione2\ModeoGiorgio-Esercitazione2\obj\Debug\net6.0\ref\ModeoGiorgio-Esercitazione2.dll
