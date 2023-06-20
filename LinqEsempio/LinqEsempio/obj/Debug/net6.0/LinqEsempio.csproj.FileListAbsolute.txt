@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\bin\Debug\net6.0\LinqEsempio.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\bin\Debug\net6.0\LinqEsempio.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\bin\Debug\net6.0\LinqEsempio.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\bin\Debug\net6.0\LinqEsempio.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\bin\Debug\net6.0\LinqEsempio.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\refint\LinqEsempio.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\LinqEsempio.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinqEsempio\LinqEsempio\obj\Debug\net6.0\ref\LinqEsempio.dll

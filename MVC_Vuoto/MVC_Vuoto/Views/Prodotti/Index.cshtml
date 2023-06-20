@@ -1,0 +1,21 @@
+﻿@model MVC_Vuoto.Models.Prodotto
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Prodotto</h2>
+<p>@Model.ToString()</p>
+
+@if (Model.Giacenza >= 1 && Model.Giacenza <= 9)
+{
+ <p>prodotto in scorta</p>
+}
+else if (Model.Giacenza == 0)
+{
+     <p>prodotto esaurito</p>
+}
+else {
+     <p>prodotto disponibile</p>
+}
+

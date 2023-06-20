@@ -1,0 +1,16 @@
+﻿@model MVC_Vuoto.Models.ContattoViewModel
+
+@{
+    ViewBag.Title = "Contatti";
+}
+
+<h2>Contatti</h2>
+<form action="/home/RecuperoContatti" method="post">
+    nominativo: <input type="text" name="Nominativo">
+    email: <input type="email" name="Email">
+    oggetto: <input type="text" name="oggetto">
+    messaggio: <textarea name="messaggio"></textarea>
+    <input type="submit" value="invia">
+
+</form>
+

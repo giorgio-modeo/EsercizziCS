@@ -1,0 +1,15 @@
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\bin\Debug\net6.0\LinQ.exe
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\bin\Debug\net6.0\LinQ.deps.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\bin\Debug\net6.0\LinQ.runtimeconfig.json
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\bin\Debug\net6.0\LinQ.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\bin\Debug\net6.0\LinQ.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.AssemblyReference.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfo.cs
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\refint\LinQ.dll
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.pdb
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\LinQ.genruntimeconfig.cache
+C:\Users\ICTS22-24.214\Desktop\EsercizziC#\LinQ\LinQ\obj\Debug\net6.0\ref\LinQ.dll
