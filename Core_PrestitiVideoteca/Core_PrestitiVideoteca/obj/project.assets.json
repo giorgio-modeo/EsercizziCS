@@ -10831,9 +10831,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca.csproj",
-      "projectName": "Core_PrestitiVideoteca",
-      "projectPath": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca.csproj",
+      "projectUniqueName": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Frontend.PrestitiVideoteca.csproj",
+      "projectName": "Frontend.PrestitiVideoteca",
+      "projectPath": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Frontend.PrestitiVideoteca.csproj",
       "packagesPath": "C:\\Users\\ICTS22-24.214\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\obj\\",
       "projectStyle": "PackageReference",

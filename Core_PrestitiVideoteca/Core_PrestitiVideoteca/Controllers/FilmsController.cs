@@ -19,9 +19,12 @@ namespace Core_PrestitiVideoteca.Controllers
         }
 
         // GET: Films
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? numeroPerPagina)
         {
-              return _context.Films != null ? 
+            var lista = _context.Films.IgnoreQueryFilters();
+            if (numeroPerPagina != null)
+                lista = _context.Films.Take((int)numeroPerPagina);
+            return _context.Films != null ?
                           View(await _context.Films.ToListAsync()) :
                           Problem("Entity set 'Core_PrestitiVideotecaContext.Films'  is null.");
         }

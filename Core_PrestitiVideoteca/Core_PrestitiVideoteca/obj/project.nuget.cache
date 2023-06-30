@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "keimbpgsrhtH1cCvF4n2Ywp2CnXIx6yOT22MZ3lJWUVRFBF5LI4PPHVAkBLPf3mkZmtQkfwMKELY2w5Rq9zDbQ==",
+  "dgSpecHash": "OEgAUXzZZUceutoOLVYaExh3NhL5CD9vClCbH2tk/koTFiZMi3coTRsr6AuCUc+dtfjbQppFj5UC4ZILbCNQDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca.csproj",
+  "projectFilePath": "C:\\Users\\ICTS22-24.214\\Desktop\\EsercizziC#\\Core_PrestitiVideoteca\\Core_PrestitiVideoteca\\Frontend.PrestitiVideoteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ICTS22-24.214\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ICTS22-24.214\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
